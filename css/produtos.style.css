@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-image: linear-gradient(to left, rgb(216, 216, 216), #7fb9e9);
+}
+
+.container{
+    display: block;
+    text-align: justify;
+    text-align: center;
+    border: none;
+    
+}
+
+.container img {
+    width: 30%;
+}
+
+.container iframe{
+    width: 30%;
+}
+
